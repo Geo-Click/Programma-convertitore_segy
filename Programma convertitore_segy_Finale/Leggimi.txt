@@ -1,0 +1,5 @@
+si clicca sulla cartella disegnata nell'indirizzo e tutto l'indirizzo si evidenzia
+si scrime cmd e si preme enter
+si apre il promp e si incolla questo per far partire 
+python convertitore_gui_finale.py
+si clicca su ok
